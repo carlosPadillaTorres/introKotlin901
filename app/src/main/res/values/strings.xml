@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntroKotlin_901</string>
+    <string name="calcular">Calcular</string>
+    <string name="num_2">Número 2</string>
+    <string name="num_1">Número 1</string>
+    <string name="titulo">Bienvenido</string>
+</resources>
