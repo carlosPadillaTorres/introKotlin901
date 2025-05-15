@@ -34,14 +34,14 @@ class Operaciones : AppCompatActivity() {
             insets
         }
     }
-    fun showSoftKeyboard(view: View) {
+    fun cerrarTeclado(view: View) {
             var imm = getSystemService(InputMethodManager::class.java)
             imm.hideSoftInputFromWindow(view.windowToken, 0)
     }
 
     fun validarOperacion(v: View){
 
-        showSoftKeyboard(tv1)
+        cerrarTeclado(tv1)
 
         var numUno: Double = 0.0
         var numDos: Double = 0.0
