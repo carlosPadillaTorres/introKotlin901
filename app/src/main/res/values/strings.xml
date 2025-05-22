@@ -4,4 +4,13 @@
     <string name="num_2">Número 2</string>
     <string name="num_1">Número 1</string>
     <string name="titulo">Bienvenido</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombre_comprador">Juan Pérez</string>
+    <string name="txt_cantidad_compradores">Cantidad de compradores</string>
+    <string name="txt_ex_cant">1</string>
+    <string name="txt_cantidad_boletos">Cantidad de boletos</string>
+    <string name="txt_tarjeta_cineco">Tarjeta cineco</string>
+    <string name="txt_no">No</string>
+    <string name="txt_si">Si</string>
+    <string name="txt_boletos_pagar">Precio de boletos a pagar:</string>
 </resources>

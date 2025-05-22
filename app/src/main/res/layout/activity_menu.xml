@@ -10,11 +10,45 @@
         android:orientation="vertical"
         android:layout_margin="14dp">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="10dp"
+        android:text="Ingresa tu nombre"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+    <EditText
+        android:id="@+id/ed_nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="80dp"/>
+
     <Button
         android:id="@+id/btn_saludar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ejemplo1"
-        app:layout_constriantTop_toTopOf="parent"/>
+        android:text="Saludar"
+        android:layout_marginVertical="16dp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btn_operaciones"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Abrir pantalla operaciones"
+        android:layout_marginVertical="16dp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btn_cinepolis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Comprar boletos cinépolis"
+        android:layout_marginVertical="16dp"
+        android:layout_gravity="center"/>
+
 
 </LinearLayout>
