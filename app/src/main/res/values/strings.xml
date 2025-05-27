@@ -13,4 +13,19 @@
     <string name="txt_no">No</string>
     <string name="txt_si">Si</string>
     <string name="txt_boletos_pagar">Precio de boletos a pagar:</string>
+    <string name="txt_titulo_principal">Diccionario de Inglés/Español</string>
+    <string name="txt_palabra_nueva">Capturar palabra nueva</string>
+    <string name="txt_pantalla_buscar_palabra">Buscar palabra</string>
+    <string name="txt_titulo_dos">Capturar palabras</string>
+    <string name="txt_espaniol">Español</string>
+    <string name="txt_hint_edit_espaniol">Pelota</string>
+    <string name="txt_ingles">Inglés</string>
+    <string name="txt_hint_edit_ingles">Ball</string>
+    <string name="txt_guardar_palabra">Guardar palabras</string>
+    <string name="txt_msg_exito_guardado">Palabras guardadas con éxito</string>
+    <string name="txt_volver">Volver</string>
+    <string name="txt_titulo_tres">Buscar palabra</string>
+    <string name="txt_palabra_a_buscar">Palabra a buscar</string>
+    <string name="txt_buscar_palabra">Buscar palabra</string>
+    <string name="txt_msg_palabra_encontrada">Palabra encontrada:</string>
 </resources>
